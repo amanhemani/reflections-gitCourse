@@ -22,3 +22,13 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 use diff --staged to compare the most recent commit and whats in your stage
 this way you can compare the changed lines between the two
+
+
+
+
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+when adding expermental features or want to isolate some Changes
+branches allow you to go off into different paths of editing without affecting your master or other branches
