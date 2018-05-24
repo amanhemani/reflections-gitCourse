@@ -12,3 +12,13 @@ How is the staging area different from the working directory and the repository?
 The staging area is the intermediate between the working directory and the repository
 When committing, the repo bundles the staging area and commits that
 It allows you to commit only certain files rather than all
+
+
+
+
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+use diff --staged to compare the most recent commit and whats in your stage
+this way you can compare the changed lines between the two
