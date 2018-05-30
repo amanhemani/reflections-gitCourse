@@ -30,5 +30,17 @@ this way you can compare the changed lines between the two
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-when adding expermental features or want to isolate some Changes
+when adding experimental features or want to isolate some Changes
 branches allow you to go off into different paths of editing without affecting your master or other branches
+
+
+
+
+
+
+How do the diagrams help you visualize the branch structure?
+You can see parents, who you can access, who you can't access
+How to get to any commit
+See visually the creation of all of your features
+Keep the whole project organized
+Make sure no important commit get lost
