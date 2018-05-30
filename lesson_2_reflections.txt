@@ -59,3 +59,15 @@ New lines added by a file are added to merged files
 Lines removed by a file are not present in the merged files
 The two branches come together and share a new node.
 The new node has 2 parents, one for each branch
+
+
+
+
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic merging allows fast feature implementation
+automatic might make some changes that are odd, redundant, or uncompilable
+manual merges can garuntee the right way every time
+manual merges take much more time and can be tedius
