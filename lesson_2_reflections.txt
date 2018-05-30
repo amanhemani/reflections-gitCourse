@@ -39,8 +39,23 @@ branches allow you to go off into different paths of editing without affecting y
 
 
 How do the diagrams help you visualize the branch structure?
+
 You can see parents, who you can access, who you can't access
 How to get to any commit
 See visually the creation of all of your features
 Keep the whole project organized
 Make sure no important commit get lost
+
+
+
+
+
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+the code of the two merges
+New lines added by a file are added to merged files
+Lines removed by a file are not present in the merged files
+The two branches come together and share a new node.
+The new node has 2 parents, one for each branch
