@@ -12,4 +12,5 @@ When you would like to have a back up of all commits online
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-tbh idk
+To allow you to work on a feature without worry of things changing in the middle
+You have more of an idea of the code you are working with, no chance it changed without you knowing
