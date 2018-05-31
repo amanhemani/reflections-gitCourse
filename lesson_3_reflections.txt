@@ -4,3 +4,12 @@ when collaborating with others
 When using multiple machines
 When sharing your work
 When you would like to have a back up of all commits online
+
+
+
+
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+tbh idk
