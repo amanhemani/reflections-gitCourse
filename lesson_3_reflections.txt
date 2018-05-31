@@ -1,0 +1,6 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+when collaborating with others
+When using multiple machines
+When sharing your work
+When you would like to have a back up of all commits online
