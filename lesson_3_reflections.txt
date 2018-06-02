@@ -39,3 +39,27 @@ for you to make your own version of some public code
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 If pushing or pulling, you can use it as a reference for merging the local state and the state on GitHub
+
+
+
+
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Google docs. Auto update, better latency, simultaneous work with real time updates
+No named commits, no experimental versions, no always working master version
+
+
+
+
+
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you are not sure if the code will work
+Testing new features
+Not all collabortors on board with changes yet
+A benefit to updating master would be a cleaner tree
+A benefit of using a new branch would be ensuring that master is production level quality
